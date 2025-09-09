@@ -2,6 +2,9 @@
 Using pandas and OpenAI's API, we can query data in a similar way to SQL - extracting insights and information.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+Quick Disclaimer:
+This was written in a .ipynb file and seems to have a hard time being rendered here. Just click on "Preview" and you should be able to review the raw code there.
+
 
 Goals for this project:
 
